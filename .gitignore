@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+MNIST/
+log/
+*.ckpt*
+checkpoint
+*.meta
+*.index
+*.data-*
