@@ -21,7 +21,7 @@ The model learns image features and predicts the digit corresponding to a test i
 | [train.py](code/train.py) | CNN model definition and MNIST training code 
 | [predict.py](code/predict.py) | Checkpoint loading, image display, and digit prediction code 
 | [report_code_as_printed.txt](code/report_code_as_printed.txt) 
-| [2.mlai.pdf](report/2.mlai.pdf) | Complete project report. |
+
 
 
 ## Figures and results 
